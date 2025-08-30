@@ -22,5 +22,5 @@ Run locally to see the live dashboard in action.
 ## **Installation**
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Weather-Prediction-Dashboard.git
+git clone https://github.com/kamalikaprabakaran/Weather-Prediction-Dashboard.git
 cd Weather-Prediction-Dashboard
